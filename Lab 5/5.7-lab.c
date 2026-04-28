@@ -12,12 +12,8 @@ int main() {
     printf("Enter data for 5 books:\n");
     for (int i = 0; i < 5; i++) {
         printf("Book %d:\n", i + 1);
-        printf("Name: ");
-        scanf("%49s", books[i].name);
-        printf("Pages: ");
-        scanf("%d", &books[i].pages);
-        printf("Price: ");
-        scanf("%f", &books[i].price);
+        printf("Enter Name Pages Price: ");
+        scanf("%49s %d %f", books[i].name, &books[i].pages, &books[i].price);
     }
     
     int max_idx = 0;
