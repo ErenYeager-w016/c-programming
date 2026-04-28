@@ -10,5 +10,6 @@ int main() {
     printf("Area: %.2f\n", pi * r * r);
     printf("Circumference: %.2f\n", 2 * pi * r);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

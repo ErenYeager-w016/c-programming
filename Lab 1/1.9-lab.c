@@ -13,5 +13,6 @@ int main() {
     
     printf("Reversed number: %d\n", reversed);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

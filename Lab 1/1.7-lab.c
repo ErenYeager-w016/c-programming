@@ -11,5 +11,6 @@ int main() {
     
     printf("%d years, %d months, %d days\n", years, months, remaining_days);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

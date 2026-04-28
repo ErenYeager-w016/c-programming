@@ -8,5 +8,6 @@ int main() {
     printf("Octal: %o\n", num);
     printf("Hexadecimal: %x\n", num);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

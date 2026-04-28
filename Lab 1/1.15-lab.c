@@ -13,5 +13,6 @@ int main() {
     
     printf("Sum of digits: %d\n", sum);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

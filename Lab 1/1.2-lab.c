@@ -8,5 +8,6 @@ int main() {
     float area = 6 * l * l;
     printf("Surface area of cube: %.2f\n", area);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

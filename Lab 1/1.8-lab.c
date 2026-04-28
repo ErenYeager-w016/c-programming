@@ -10,5 +10,6 @@ int main() {
     printf("cm: %.1f\n", mm / 10);
     printf("mm: %.0f\n", mm);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

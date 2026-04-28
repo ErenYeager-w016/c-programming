@@ -13,5 +13,6 @@ int main() {
     printf("Root 1: %.2f\n", root1);
     printf("Root 2: %.2f\n", root2);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

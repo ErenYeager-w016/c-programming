@@ -8,5 +8,6 @@ int main() {
     int result = (a > b) ? (a + b) : (a - b);
     printf("Result: %d\n", result);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

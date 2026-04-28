@@ -8,5 +8,6 @@ int main() {
     float fahrenheit = (9.0 / 5.0) * celsius + 32;
     printf("Temperature in Fahrenheit: %.2f\n", fahrenheit);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

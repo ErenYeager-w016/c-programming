@@ -10,5 +10,6 @@ int main() {
     printf("Multiplication: %.2f\n", a * b);
     printf("Division: %.2f\n", a / b);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

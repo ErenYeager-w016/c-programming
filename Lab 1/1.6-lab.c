@@ -11,5 +11,6 @@ int main() {
     
     printf("%d hours, %d minutes, %d seconds\n", hours, mins, secs);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

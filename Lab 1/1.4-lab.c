@@ -8,5 +8,6 @@ int main() {
     printf("Area: %.2f\n", l * b);
     printf("Perimeter: %.2f\n", 2 * (l + b));
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

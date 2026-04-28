@@ -14,5 +14,6 @@ int main() {
     printf("Aggregate: %d\n", aggregate);
     printf("Percentage: %.2f%%\n", percentage);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

@@ -11,5 +11,6 @@ int main() {
     
     printf("After interchanging: %d %d\n", a, b);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }

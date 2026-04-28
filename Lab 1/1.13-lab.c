@@ -11,5 +11,6 @@ int main() {
     
     printf("Area: %.2f\n", area);
     
+    printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
 }
