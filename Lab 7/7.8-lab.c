@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    FILE *file = fopen("evennumbers.txt", "w");
+    FILE *file = fopen("D:/test/evennumbers.txt", "w");
     if (file == NULL) {
         printf("Error creating file!\n");
         return 1;
@@ -17,7 +17,7 @@ int main() {
     printf("\n");
     fclose(file);
     
-    file = fopen("evennumbers.txt", "r");
+    file = fopen("D:/test/evennumbers.txt", "r");
     printf("\nReading from evennumbers.txt:\n");
     int num;
     while (fscanf(file, "%d", &num) != EOF)
