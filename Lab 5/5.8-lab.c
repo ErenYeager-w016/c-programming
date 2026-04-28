@@ -16,7 +16,7 @@ int main() {
     student.marks = 95;
     printf("Marks: %d\n", student.marks);
     
-    printf("Roll (after setting marks): %d\n", student.roll);
+    printf("Roll: %d\n", student.roll);
     
     printf("\nProgrammed by Kshitij Nepali\n");
     return 0;
