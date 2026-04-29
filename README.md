@@ -176,4 +176,4 @@ gcc 1.2-lab.c -lm -o 1.2-lab
 
 ## License
 
-See LICENSE file for details.
+See [LICENSE](LICENSE) file for details.
